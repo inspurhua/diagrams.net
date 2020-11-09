@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T07:52:02.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="aLIM7clZG4hZV82qcAnc" version="13.8.1" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6XIyNl7Zz6SKdZJrOpFnKcAJqBGKEiHGfvhKIO4md2rhupxuP9EscpP+TzmGsWaswu2EoDr5QD4hm6l6mWZeaac4cU/xKYVsIlmMUgs+wV0gN4QH/BCXqSk2xB0lrIqeUcBy3RZdGEbi8pSHG6KY97ZmS9ltj5ENPeHAR6auP2ONBoTq2XuufAftB+WZDVyMhKicrIQmQRzcNybrSrBWjlBetMFsBkd6VvhTPXb8xWi2MQcT3ecCK0uV1xubu9laPo7vHbya6uVBRXhFJ1YY1a3G3/iGtLFbNt6UVYgOxbKYhucXPQHAkessYGA6BAxMjRMn3tbYUYDgSmhw38j4hKE7wOg+rC4WBm7IEv8JXSAr+uUrTyANP9Srz8g5n9KXCIYP2vSg3BoxD1pCUNzdAxQLZVkwpR0tO6qA6qrupqVdsgwZxqxSROml+FbqGIRqKxwfYmH02XSQxxRHP32svNfuyg4MyHlCfRog0gRxo7LvHaG+3J3bL7NmQ2X2vjflYXls9rz2cxIi7Qc9zuUksEsSCYD8S0ppyTsPcPcT4QuYc6b0IJTSIvFJZE+q+lNNUonOOTUDE9uG9eeoMgddKe31ODAji4k62E+qA7erRe3kSa74XxjDgMkJCU+aCeqjDrlrF7+Oc/MNXx27nqSpv7bg7zlhXx/5fQrJOKTibEjL9e+6B/VG3OyVk0OyBEjIdy+tZz2sGPGXR/gWkUSxoDGJo6aEkyH02iuFG2YAM8+/KdNl+ku1Pc/uAk14k5d3H6VyKjDlrHwHTmrZDFAsdrco4R/hoGPhAEFjYtkIrO08HprCdYM09wU7/DNjepR3582HeAyvQkTUSeI4C1jgZ2H1v7OREYCftCml2K9/IYMuKcOokbZwwSU/O7C53kduzIyVp0a3/PSmm139BWVe/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-09T07:56:17.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="CwGyWNvdoVSSGPu1LgEG" version="13.8.1" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7knMDV8V5I34Gqx5_hlf-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-1" target="7knMDV8V5I34Gqx5_hlf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="230" as="sourcePoint" />
+            <mxPoint x="430" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7knMDV8V5I34Gqx5_hlf-4" value="更新即时库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7knMDV8V5I34Gqx5_hlf-3">
+          <mxGeometry x="-0.5324" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="直接调拨单" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="save" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="库存台账" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="更新台账" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7knMDV8V5I34Gqx5_hlf-1" value="即时库存" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="7knMDV8V5I34Gqx5_hlf-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="7knMDV8V5I34Gqx5_hlf-1">
+          <mxGeometry x="45" y="150" width="10" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
