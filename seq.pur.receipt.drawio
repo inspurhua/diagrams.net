@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T11:49:12.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" version="13.9.2" etag="-ItxkjwAXjhO2c-94khU" type="github"><diagram id="xJd1Qk8CdwjisZbCzGel">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-10T11:50:35.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="5xK4vlEejMWRhTrNoTwb" version="13.9.2" type="github">
+  <diagram id="xJd1Qk8CdwjisZbCzGel" name="Page-1">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9bch_TMDyb7_BBHo4h2s-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9bch_TMDyb7_BBHo4h2s-1" target="9bch_TMDyb7_BBHo4h2s-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9bch_TMDyb7_BBHo4h2s-1" value="收料通知单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9bch_TMDyb7_BBHo4h2s-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9bch_TMDyb7_BBHo4h2s-2" target="9bch_TMDyb7_BBHo4h2s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9bch_TMDyb7_BBHo4h2s-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9bch_TMDyb7_BBHo4h2s-2" target="9bch_TMDyb7_BBHo4h2s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9bch_TMDyb7_BBHo4h2s-2" value="采购入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9bch_TMDyb7_BBHo4h2s-4" value="应付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9bch_TMDyb7_BBHo4h2s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9bch_TMDyb7_BBHo4h2s-6" target="9bch_TMDyb7_BBHo4h2s-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9bch_TMDyb7_BBHo4h2s-6" value="采购退库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9bch_TMDyb7_BBHo4h2s-8" value="红字应收单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
